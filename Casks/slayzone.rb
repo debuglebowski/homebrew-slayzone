@@ -1,14 +1,14 @@
 cask "slayzone" do
-  version "0.20.0"
+  version "0.21.0"
 
   on_arm do
-    sha256 "8812ab697580a8e8fa1c463af6a7b747b21441e1eac18c728518a55f2fe93a87"
-    url "https://github.com/debuglebowski/slayzone/releases/download/v0.20.0/SlayZone-arm64.dmg"
+    sha256 "400494b1beb18f127d8028ac7f22633a134c5a53a15eff602592d81a69e4edb6"
+    url "https://github.com/debuglebowski/slayzone/releases/download/v0.21.0/SlayZone-arm64.dmg"
   end
 
   on_intel do
-    sha256 "3d5ea05c5b9c0eb97e18c0485b6c04fa0b1740f3b98036b6c7b260b80e6ec687"
-    url "https://github.com/debuglebowski/slayzone/releases/download/v0.20.0/SlayZone-x64.dmg"
+    sha256 "2829ea68265c0e386efae09f5f72c50c914dad5adcaebd48032a5ab606328600"
+    url "https://github.com/debuglebowski/slayzone/releases/download/v0.21.0/SlayZone-x64.dmg"
   end
 
   name "SlayZone"
